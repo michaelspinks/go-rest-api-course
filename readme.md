@@ -1,6 +1,6 @@
-1. Course Overview
-2. Setting Up The Project
-3. Structuring our App
+1. Course Overview *
+2. Setting Up The Project *
+3. Structuring our App *
 4. Implementing the Transport Package
 5. Running Postgres Locally with Docker
 6. Implementing the Database Package
